@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/component/CustomerMailApplication/src/customermailapplication/RegularCustomer.java</file>
-            <file>file:/C:/component/CustomerMailApplication/src/customermailapplication/DelinquentCustomer.java</file>
-            <file>file:/C:/component/CustomerMailApplication/src/customermailapplication/Customer.java</file>
-            <file>file:/C:/component/CustomerMailApplication/src/customermailapplication/MountainCustomer.java</file>
-            <file>file:/C:/component/CustomerMailApplication/src/customermailapplication/CustomerMailApplication.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/Customer.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/DelinquentCustomer.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/AutoFactory.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/CustomerMailApplication.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/RegularCustomer.java</file>
+            <file>file:/C:/Users/black/Downloads/custmailwofactory-master/custmailwofactory-master/src/customermailapplication/MountainCustomer.java</file>
         </group>
     </open-files>
 </project-private>
